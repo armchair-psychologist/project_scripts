@@ -1,6 +1,8 @@
-# to install
-on the bash terminal run : chmod +x install.sh && ./install.sh
-# to start
-on the bash terminal run: jupyter notebook
+# To install
+chmod +x install.bash && ./install.bash
+# To start
+jupyter notebook
+# When adding new dependency
+pip freeze > requirements.txt
 # Relevant directories
 All project related scripts are in project_scripts
