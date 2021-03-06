@@ -7,7 +7,7 @@ source bin/activate
 deactivate
 ## To start(venv needs to be activated)
 jupyter notebook
-## When adding new dependency
+## When adding new dependency(venv needs to be activated)
 pip freeze > requirements.txt
 ## When installing new dependency(need to done after pulls that modify requirement.txt and venv needs to be activated for this)
 pip install -r requirements.txt
