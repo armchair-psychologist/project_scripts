@@ -1,0 +1,7 @@
+anyascii==0.1.7
+contractions==0.0.48
+pkg-resources==0.0.0
+pyahocorasick==1.4.1
+textsearch==0.0.21
+unicode==2.8
+Unidecode==1.2.0
