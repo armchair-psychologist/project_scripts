@@ -13,6 +13,7 @@
 [Ll]ocal
 [Ss]cripts
 share
+etc
 pyvenv.cfg
 .venv
 pip-selfcheck.json
