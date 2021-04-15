@@ -1,11 +1,15 @@
 RNN datapath:
-- Csv to Dataframe
-- preprocess Dataframe posts column
-- tokenize Dataframe posts column
-- break dataframe type column to four axis
-- create and compile four models four each axis of mbti
-- train each model
-- test model accuracy for each dimension
-- put together the results of each model and also put the labels back 
-together.
-- test model accuracy for personality identification.
+Csv to Dataframe
+preprocess Dataframe posts column
+Make copies of Dataframe for permutation testing
+and for testing the performance by removing particular
+words.
+tokenize Dataframe posts column
+break dataframe type column to four axis
+create and compile four models for each axis of mbti
+train each model
+test model accuracy for each dimension
+put together the results of each model and also put the labels back together.
+test model accuracy for identifying an exact
+    personality consisting of 
+
